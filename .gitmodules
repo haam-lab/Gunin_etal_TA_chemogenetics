@@ -1,0 +1,3 @@
+[submodule "photometry"]
+	path = photometry
+	url = https://github.com/haam-lab/Haam_etal_TA_consolidation
